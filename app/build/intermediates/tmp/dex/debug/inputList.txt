@@ -1,0 +1,2 @@
+C:\Users\jsmith\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\classes\debug
+C:\Users\jsmith\AndroidStudioProjects\Project5_TestTimer\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ab01b3774adba1f86f74e80b0dda3bf24981146b.jar
